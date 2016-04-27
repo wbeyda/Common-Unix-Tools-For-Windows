@@ -18,7 +18,7 @@
 
 * then click on Edit...
 
-*for Variable Value go to the end of the line and enter 
+* for Variable Value go to the end of the line and enter 
 
   ```sh
   C:\unix;
